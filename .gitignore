@@ -4,9 +4,3 @@ dist
 .DS_Store
 .vite
 *.local
-
-# 依赖与构建产物：可重装/重建，不进 git
-.next/
-.cache/
-__pycache__/
-*.pyc
